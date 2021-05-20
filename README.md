@@ -1,3 +1,3 @@
 # basic_tetris1
 
-Followed tutorial on youtube
+Followed: https://www.youtube.com/aniakubow
