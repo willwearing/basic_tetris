@@ -1,3 +1,3 @@
-# basic_tetris1
+# basic_tetris
 
 Followed: https://www.youtube.com/aniakubow
